@@ -2,13 +2,13 @@
 
 Proyecto Final - Inatec
 
+Página web: 
 <p align="center">
-  Página web: 
   <img alt="Proyecto Final - Inatec" src="./img/full.Project.png" width="50%">
 </p>
 
+Formulario:
 <p align="center">
-  Formulario:
   <img alt="Proyecto Final - Inatec" src="./img/form-img.png" width="80%">
 </p>
 
