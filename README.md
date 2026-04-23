@@ -7,7 +7,7 @@ Proyecto Final - Inatec
 </p>
 
 <p align="center">
-  <img alt="Proyecto Final - Inatec" src="./img/form-img.png" width="100%">
+  <img alt="Proyecto Final - Inatec" src="./img/form-img.png" width="80%">
 </p>
 
 - <a href="#" target="_blank">Mira el proyecto completo</a>
