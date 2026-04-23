@@ -10,7 +10,7 @@ Proyecto Final - Inatec
   <img alt="Proyecto Final - Inatec" src="./img/form-img.png" width="80%">
 </p>
 
-- <a href="#" target="_blank">Mira el proyecto completo</a>
+- <a href="https://danniela-91.github.io/mi.portafolio/" target="_blank">Mira el proyecto completo</a>
 
 ## 🚀 Tecnologías
 
