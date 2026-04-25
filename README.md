@@ -20,6 +20,7 @@ Este proyecto fue desarrollado con las seguientes tecnologías:
 
 - HTML5
 - CSS 3
+- JavaScript
 - Git e Github
 - Metodología BEM
 
