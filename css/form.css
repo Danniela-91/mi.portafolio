@@ -47,6 +47,7 @@ header {
 .logo {
   position: relative;
   left: 20px;
+  top: -20px;
   cursor: default;
   font-size: 1.1rem;
   font-weight: bold;
@@ -248,11 +249,16 @@ Apenas adicionei Height: auto para resolver isso*/
   text-decoration: none;
   cursor: pointer;
   transition: 0.3s ease;
-  /* z-index: 1; */
+  z-index: 1;
 }
 
 .wrapper .icon-close a .fa-xmark{
   color: var(--azuloscuro);
+  z-index: 2;
+}
+
+.wrapper .icon-close:hover {
+  cursor: pointer;
 }
 
 /*==== FORM ====*/
@@ -328,6 +334,10 @@ Apenas adicionei Height: auto para resolver isso*/
   font-weight: 550;
   padding: 10px;
   box-sizing: border-box;
+}
+
+.textarea textarea:hover {
+  cursor: pointer;
 }
 
 /*==== CHECKBOX DE LAS POLÍTICAS Y ENVIAR ====*/
