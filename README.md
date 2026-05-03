@@ -2,15 +2,17 @@
 
 Proyecto Final - Inatec
 
+Página web: 
 <p align="center">
   <img alt="Proyecto Final - Inatec" src="./img/full.Project.png" width="50%">
 </p>
 
+Formulario:
 <p align="center">
   <img alt="Proyecto Final - Inatec" src="./img/form-img.png" width="80%">
 </p>
 
-- <a href="#" target="_blank">Mira el proyecto completo</a>
+- <a href="https://danniela-91.github.io/mi.portafolio/" target="_blank">Mira el proyecto completo</a>
 
 ## 🚀 Tecnologías
 
@@ -18,6 +20,7 @@ Este proyecto fue desarrollado con las seguientes tecnologías:
 
 - HTML5
 - CSS 3
+- JavaScript
 - Git e Github
 - Metodología BEM
 
