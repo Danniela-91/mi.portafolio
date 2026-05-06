@@ -1,13 +1,13 @@
 # ✨ Mi Portafolio ✨
 
-Proyecto Final - Inatec
+## Proyecto Final - Inatec
 
-Página web: 
+## Página web: 
 <p align="center">
   <img alt="Proyecto Final - Inatec" src="./img/full.Project.png" width="50%">
 </p>
 
-Formulario:
+## Formulario:
 <p align="center">
   <img alt="Proyecto Final - Inatec" src="./img/form-img.png" width="80%">
 </p>
@@ -16,7 +16,7 @@ Formulario:
 
 ## 🚀 Tecnologías
 
-Este proyecto fue desarrollado con las seguientes tecnologías:
+## Este proyecto fue desarrollado con las seguientes tecnologías:
 
 - HTML5
 - CSS 3
