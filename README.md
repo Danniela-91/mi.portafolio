@@ -23,12 +23,12 @@ Este proyecto fue desarrollado con las seguientes tecnologías:
 - JavaScript (Vanilla)
 - Git y Github
 
-##  Integraciones y librerías
+## 📚 Integraciones y librerías
 
 - Google Fonts (tipografías)
 - Font Awesome (iconos)
 
-##  Metodologías y Deploy
+## ⚙️ Metodologías y Deploy
 
 - Metodología BEM (arquitectura CSS)
 - Hosting mediante Github Pages 
