@@ -41,7 +41,7 @@ header {
   background: transparent;
   /* backdrop-filter: blur(20px); */
   z-index: 100;
-  box-sizing: border-box;
+  box-sizing: border-box; 
 }
 /*==== LOGO ====*/
 .logo {
