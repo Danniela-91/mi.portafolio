@@ -1,4 +1,4 @@
-# Mi Portafolio
+# ✨ Mi Portafolio ✨
 
 Proyecto Final - Inatec
 
@@ -38,7 +38,7 @@ Este proyecto fue desarrollado con las seguientes tecnologías:
   Este es el proyecto final del curso de desarrollo web del centro Inatec y nos propusieron que cada alumno hiciera una página estilo portafolio.
 Elegí un estilo más futurista, con un contraste fuerte de colores, efecto de luz en el :hover, un menu cristal al hacer scroll y un formulario diferente.
 
-## 🛠 Mejoras
+## 📈 Mejoras
 
 Algunas mejoras que se pueden aplicar:
 
