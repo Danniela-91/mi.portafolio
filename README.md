@@ -46,7 +46,7 @@ Algunas mejoras que se pueden aplicar:
 - Usar JS para que la sección Proyectos sea más interesante
 - Usar un deseño diferente para la foto en la sección Sobre mi
 
-## :memo: Licença
+## :memo: Licencia
 
 Este proyecto está abajo la licencia MIT.
 
