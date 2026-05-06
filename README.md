@@ -20,9 +20,18 @@ Este proyecto fue desarrollado con las seguientes tecnologías:
 
 - HTML5
 - CSS 3
-- JavaScript
-- Git e Github
-- Metodología BEM
+- JavaScript (Vanilla)
+- Git y Github
+
+##  Integraciones y librerías
+
+- Google Fonts (tipografías)
+- Font Awesome (iconos)
+
+##  Metodologías y Deploy
+
+- Metodología BEM (arquitectura CSS)
+- Hosting mediante Github Pages 
 
 ## 💻 Proyecto
 
@@ -39,10 +48,10 @@ Algunas mejoras que se pueden aplicar:
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+Este proyecto está abajo la licencia MIT.
 
 ---
 
-Feito com ♥ by Daniela Tenório
+Hecho con ♥ by Daniela Tenório
 
 
